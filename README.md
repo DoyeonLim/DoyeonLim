@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hello My name is Doyeon.  
+I'm studying Computer Science&Engineering at Chung-Ang University(2020 ~ ). I'm interested in Data Analytics in industry.
+
+</a> <a href="https://instagram.com/doyeon__20"> <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doyeon010420@gmail.com)](mailto:doyeon010420@gmail.com)
+
+
+
+
 
 <!--
 **DoyeonLim/DoyeonLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
