@@ -7,8 +7,8 @@
 - 💻 I'm majoring in **Computer Science&Engineering** at **Chung-Ang University(2020~ )**.  
 - 📊 I'm interested in **Data Science**.
 
-[![doyeon's github stats](https://github-readme-stats.vercel.app/api?username=DoyeonLim)] 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoyeonLim&layout=compact)]
+![doyeon's github stats](https://github-readme-stats.vercel.app/api?username=DoyeonLim) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoyeonLim&layout=compact)
 
 
 
