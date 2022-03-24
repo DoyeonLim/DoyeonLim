@@ -8,7 +8,6 @@
 - 📊 I'm interested in **Data Science** and **Recommender System**.
 
 ![doyeon's github stats](https://github-readme-stats.vercel.app/api?username=DoyeonLim) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoyeonLim&layout=compact)
 
 
 
