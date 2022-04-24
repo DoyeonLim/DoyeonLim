@@ -6,7 +6,7 @@
 
 - 💻 I'm majoring in **Computer Science&Engineering** at **Chung-Ang University(2020~ )**.  
 - 📊 I'm interested in **Recommender System** and **Data Science**.
-- 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab, Chung-Ang Univ.](https://sites.google.com/aicampus.cau.ac.kr/dsl)(2022.01 ~ )**.
+- 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl), Chung-Ang University(2022.01 ~ )**.
 
 ![doyeon's github stats](https://github-readme-stats.vercel.app/api?username=DoyeonLim) 
 
