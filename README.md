@@ -9,7 +9,6 @@
 - 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl), Chung-Ang University(2022.01 ~ )**.
 
 ![doyeon's github stats](https://github-readme-stats.vercel.app/api?username=DoyeonLim) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoyeonLim&layout=compact)
 
 
 
