@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoyeonLim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits!&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 💻 I'm majoring in **Computer Science&Engineering** at **Chung-Ang University(2020.03 ~ Junior in 2022)**.  
-- 📊 I'm interested in **Recommender System** and **Data Science**.
+- 📊 I'm interested in **Recommender System**, **Reinforcement Learning** and **Data Science**.
 - 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl), Chung-Ang University(2022.01 ~ )**.
 - 💰 I was selected as a recipent of **[Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)(2022.06 ~ )**.   
 
