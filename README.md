@@ -10,8 +10,6 @@
 - 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl), Chung-Ang University(2022.01 ~ )**.
 - 💰 I was selected as a recipent of **[Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)(2022.06 ~ )**.   
 
-![doyeon's github stats](https://github-readme-stats.vercel.app/api?username=DoyeonLim) 
-
 
 
 
