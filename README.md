@@ -7,7 +7,6 @@
 
 - 💻 I'm majoring in **Computer Science&Engineering** at **Chung-Ang University(2020.03 ~ )**.  
 - 📊 I'm interested in **Recommender System** and **Data Science**.
-- 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl), Chung-Ang University(2022.01 ~ 2023.06)**.
 - 💰 I was selected as a recipent of **[Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01)(2022.06 ~ )**.   
 
 
@@ -27,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👩‍💻 I'm doing **Undergraduate Research Intern** at **[Data Science Lab](https://sites.google.com/aicampus.cau.ac.kr/dsl), Chung-Ang University(2022.01 ~ 2023.06)**.
 -->
